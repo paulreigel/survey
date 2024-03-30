@@ -15,5 +15,10 @@
         "type": "input",
         "name": "email",
         "message": "What is your email address?"
+    },
+    {
+        "type": "password",
+        "name": "password",
+        "message": "What is your password?"
     }
 ]
